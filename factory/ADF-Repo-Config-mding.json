@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Repo-Config-mding",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "708fde43-730c-45c4-93cd-6baefdea7f13",
+		"tenantId": "a4c99463-8e14-405c-962b-c6bb73eb6e90"
+	}
+}
